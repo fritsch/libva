@@ -1,0 +1,2 @@
+version=3
+http://www.freedesktop.org/software/vaapi/releases/libva/libva-(\d.*)\.(?:tgz|tbz2|tar\.(?:gz|bz2|xz))
